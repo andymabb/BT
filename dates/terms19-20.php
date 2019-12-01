@@ -76,6 +76,7 @@
   <div class="col-sm-6">
     <h3>Bank Holidays</h3>
     <table class="table table-responsive">
+    <tr>
     <td>Good Friday</td>
     <td>10 April 2020</td>
     </tr>

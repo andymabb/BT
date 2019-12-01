@@ -57,7 +57,6 @@
         <h3>Gwyliau'r Banc </h3>
         <table class="table table-responsive">
         <tr>
-        <tr>
         <td>Gwener y groglith</td>
         <td>10 Ebrill 2020</td>
         </tr>
