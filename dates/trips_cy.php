@@ -1,30 +1,20 @@
 <h3>Teithiau 2019/20</h3>
-<p>Manylion i ddilyn</p>
-<!-- To be confirmed -->
-<!-- <div class="row">
-	<col-sm-6>
-		<table class="table table-responsive">
-			<thead>
-				<tr>
-					<th>Dyddiad</th>
-					<th>Teithiau</th>
-				</tr>
-			</thead>
-			<tbody>
-			<tbody>
-				<tr><td>20/02/19</td><td>Taith Sgio</td></tr>
-				<tr><td>08/03/19</td><td>Birkhampstead (Rygbi 7-bob-ochr)</td></tr>
-				<tr><td>15/03/19</td><td>Bari (Rygbi 7-bob-ochr)</td></tr>
-				<tr><td>25/3 - 29/3</td><td>Rosslyn Park (Rygbi 7 bob-ochr)</td></tr>
-				<tr><td>02/05/19</td><td>Shakespeare Birthplace Trust (Blwyddyn 13)</td></tr>
-				<tr><td>11/06/19</td><td>Taith Gwasanaethau Cyhoeddus</td></tr>
-				<tr><td>12/6 - 13/6</td><td>Cosmoston (Blwyddyn 7)</td></tr>
-				<tr><td>14/06/19</td><td>Bae Caerdydd (Blwyddyn 8)</td></tr>
-				<tr><td>15/07 - 31/7</td><td>Taith World Challenge</td></tr>
-				<tr><td>15/07 - 19/7</td><td>Taith Cerdd I Amsterdam</td></tr>
-			</tbody>
-	
-			</tbody>
-		</table>
-	</col-sm-6>
-</div>  -->
+<!-- <p>Manylion i ddilyn</p> -->
+<dl>
+	<dt>02/12/2019</dt>
+	<dd>Taith I Stiwdio Harry Potter</dd>
+	<dt>17/12/2019</dt>
+	<dd>Pantomeim Nadolig</dd>
+	<dt>27/1 - 31/1</dt>
+	<dd>Taith Dylan Thomas Bl8</dd>
+	<dt>14/2 - 21/2</dt>
+	<dd>Taith Sgio</dd>
+	<dt>23/3 - 27/3</dt>
+	<dd>Parc Rosslyn</dd>
+	<dt>23/04/2020</dt>
+	<dd>Taith Shakespeare</dd>
+	<dt>11/05/2020</dt>
+	<dd>Taith Rhossili</dd>
+	<dt>19/06/2020</dt>
+	<dd>Bae Caerdydd</dd>
+</dl>
