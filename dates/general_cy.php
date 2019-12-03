@@ -1,6 +1,6 @@
 <h3> Cyffredinol 2019/20</h3>
 <!-- <p>Manylion i ddilyn</p> -->
-<dl>
+<dl class="wide-single-line">
 	<dt>22/11/2019</dt>
 	<dd>Gala Nofio'r URDD</dd>
 	<dt>3-5/12/2019</dt>
