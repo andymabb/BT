@@ -7,7 +7,7 @@
     <dd>Mr Simon Davies</dd>
 
     <dt>Cymunedol</dt>
-    <dd>Mr Heini Gruffudd, Cadeirydd - 03/11/2023</dd>
+    <dd>Mr Heini Gruffudd - 03/11/2023</dd>
     <dd>Mrs Sarah East - 22/11/2023</dd>
     <dd>Mrs Carys Davies - 08/03/2021</dd>
     <dd>Mrs Davida Lewis - 03/11/2023</dd>
@@ -20,7 +20,7 @@
     <dd>Mrs Margaret Greenaway - 21/08/2023</dd>
     <dt>Rhiant</dt>
     <dd>Mrs Janet Rowlands -05/10/2022</dd>
-    <dd>Mrs Esther Wood -05/10/2022</dd>
+    <dd>Mrs Esther Wood, Cadeirydd - 05/10/2022</dd>
     <dd>Mrs Bethan James - 12/11/2021</dd>
     <dd>Mrs Adele Thomas - 09/12/2023</dd>
     <dd>Mrs Helen Pritchard - 17/04/2022</dd>

@@ -7,7 +7,7 @@
 	<dd>Mr Simon Davies</dd>
 
 	<dt>Community</dt>
-	<dd>Mr Heini Gruffudd, Chairman - 03/11/2023</dd>
+	<dd>Mr Heini Gruffudd - 03/11/2023</dd>
 	<dd>Mrs Sarah East - 22/11/2023</dd>
 	<dd>Mrs Carys Davies- 08/03/2021</dd>
 	<dd>Mrs Davida Lewis - 03/11/2023</dd>
@@ -22,7 +22,7 @@
 
 	<dt>Parent</dt>
 	<dd>Mrs Janet Rowlands - 05/10/2022</dd>
-	<dd>Mrs Esther Wood - 05/10/2022</dd>
+	<dd>Mrs Esther Wood, Chairman - 05/10/2022</dd>
 	<dd>Mrs Bethan James - 29/09/2021</dd>
 	<dd>Mrs Adele Thomas - 09/12/2023</dd>
 	<dd>Mrs Helen Pritchard - 17/04/2022</dd>
