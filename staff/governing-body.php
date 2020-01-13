@@ -15,14 +15,14 @@
 
 	<dt>LEA</dt>
 	<dd>Vacancy - 12/11/2019</dd>
-	<dd>Mr David Williams- 27/02/2023</dd>
+	<dd>Mr David Williams - 27/02/2023</dd>
 	<dd>Parch Eirian Wyn - 15/10/2023</dd>
 	<dd>Mr Meirion Howells- 21/10/2020</dd>
 	<dd>Mrs Margaret Greenaway - 21/08/2023</dd>
 
 	<dt>Parent</dt>
 	<dd>Mrs Janet Rowlands - 05/10/2022</dd>
-	<dd>Mrs Esther Wood, Chairman - 05/10/2022</dd>
+	<dd>Mrs Esther Wood, Chairperson - 05/10/2022</dd>
 	<dd>Mrs Bethan James - 29/09/2021</dd>
 	<dd>Mrs Adele Thomas - 09/12/2023</dd>
 	<dd>Mrs Helen Pritchard - 17/04/2022</dd>
