@@ -8,7 +8,6 @@
 <link href="css/prospectus.css" rel="stylesheet" media="all">
 
 </head>
-
 <body>
 <header id="top">
 	<a href="https://www.bryntawe.swansea.sch.uk/prospectus.php" class="go-back">&#8678;</a>
