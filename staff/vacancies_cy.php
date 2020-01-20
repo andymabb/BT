@@ -2,9 +2,8 @@
 <!-- Dim Swyddi Gwag no vacancies  -->
 
 <h3>Athro Dyniaethau</h3>
-<p>Mae corff Llywodraethu yr ysgol am benodi Athro Dyniaethau. Rydym yn chwilio am berson sydd â hanes o ardderchogrwydd o ran addysgu, yn gallu ysbrydoli disgyblion a chydweithwyr ac yn barod i ddatblygu strategaethau blaengar i symud yr adran lwyddiannus yma yn ei blaen eto.</p>
-<p>Ers agor yn 2003, mae Bryn Tawe wedi ennill bri fel ysgol gartrefol, lwyddiannus ac uchelgeisiol ar gyfer eu holl ddisgyblion wedi ei leoli ar gyrion Dinas Abertawe, yn gyfleus iawn ar gyfer yr M4. Mae staff gweithgar a thalentog yr ysgol yn allweddol wrth yrru llwyddiannau’r ysgol yn ogystal â sicrhau’r ymdeimlad cryf o gymuned sydd yn bodoli yma.</p>
-<p>Rydym yn chwilio am athro/athrawes ysbrydoledig ac uchelgeisiol i ymuno â Maes Dysgu a Phrofiad llwyddiannus iawn yn yr ysgol. Bydd disgwyl i’r ymgeisydd llwyddiannus i addysgu Dyniaethau yn CA3 a chyfrannu at wersi Hanes, Daearyddiaeth ac Addysg Grefyddol yn ôl arbenigedd, gan gyfrannu at gyrsiau TGAU a Safon Uwch.</p>
+<p>Mae corff Llywodraethu yr ysgol am benodi Athro Dyniaethau. Rydym yn chwilio am berson sydd â hanes o ardderchogrwydd o ran addysgu, yn gallu ysbrydoli disgyblion a chydweithwyr, yn uchelgeisiol ac yn barod i ddatblygu strategaethau blaengar i gyfrannu at y Maes Dysgu a Phrofiad llwyddiannus iawn yma. Bydd disgwyl i’r ymgeisydd llwyddiannus i addysgu Dyniaethau a chyfrannu at wersi Hanes, Daearyddiaeth ac Addysg Grefyddol yn ôl arbenigedd yng NghA3, gan gyfrannu hefyd at gyrsiau TGAU a Safon Uwch.</p>
+<p>Ers agor yn 2003, mae Bryn Tawe wedi ennill bri fel ysgol gartrefol, lwyddiannus ac uchelgeisiol ar gyfer eu holl ddisgyblion. Rydym wedi ein lleoli ar gyrion Dinas Abertawe, yn gyfleus iawn ar gyfer yr M4. Mae staff gweithgar a thalentog yr ysgol yn allweddol wrth yrru llwyddiannau’r ysgol yn ogystal â sicrhau’r ymdeimlad cryf o gymuned sydd yn bodoli yma.</p>
 <p>Gyda datblygiadau cyffrous iawn ym myd addysg, â’r ffocws ar ddatblygu medrau llythrenned, rhifedd, digidol a meddwl dwfn disgyblion, bydd gan yr ymgeisydd llwyddiannus y cyfle i ysgogi, i ysbrydoli ac i arfogi ein disgyblion â’r medrau hanfodol ar gyfer dyfodol llwyddiannus.</p>
 <p>Rydym yn gallu cynnig:</p>
 <ul>
@@ -14,11 +13,11 @@
 	<li>y potensial ar gyfer datblygiad gyrfa pellach o fewn y Gyfadran a’r ysgol.</li>
 </ul>
 <ul class="list-unstyled">
-	<li>Dyddiad Cau: Dydd Gwener 17eg o Ionawr am 12:00</li>
-	<li>Rhestr fer: Dydd Gwener 17eg o Ionawr</li>
-	<li>Cyfweliadau: wythnos yn dechrau 20fed o Ionawr 2020</li>
-	<li>Graddfa cyflog: Prif raddfa gyflog</li>
-	<li>Telerau’r swydd: Llawn amser.Cytundeb dros dro. Ystyrir ceisiadau rhan amser</li>
+	<li><strong>Dyddiad Cau</strong>: Dydd Llun y 3ydd o Chwefror 2020 12:00</li>
+	<li><strong>Cyfweliadau</strong>: Dydd Gwener y 7fed o Chwefror 2020</li>
+	<li><strong>Graddfa cyflog</strong>: Prif raddfa gyflog</li>
+	<li><strong>Telerau’r swydd</strong>: Llawn amser. Cytundeb parhaol i ymgeisydd sydd a’r medrau a’r profiad addas. Ystyrir ceisiadau i weithio yn rhan amser.</li>
+	<li><strong>Dyddiad dechrau</strong>: yr 20fed o Ebrill 2020, neu y 1af o Fedi 2020 - yn unol ac argaeledd yr ymgeisydd llwyddiannus.</li>
 </ul>
 
 <p><a href="vacancies/Teacher-June18-Welsh.pdf">Lawrlwythwch ffurflen gais</a></p>
@@ -40,10 +39,10 @@
 </ul>
 <p>Os ydych chi’n berson sydd yn meddu ar y rhinweddau rydym ni yn chwilio amdanynt, byddem yn falch iawn i glywed gennych. Mae croeso i chi gysylltu â rheolwr busnes yr ysgol, Mrs Eirian Leonard am fanylion pellach.</p>
 <ul class="list-unstyled">
-	<li>Dyddiad Cau: Dydd Gwener 17eg o Ionawr 12:00</li>
-	<li>Rhestr fer: Dydd Gwener 17eg o Ionawr</li>
-	<li>Cyfweliadau: Wythnos yn dechrau 20fed o Ionawr 2020</li>
-	<li>Graddfa cyflog: Prif raddfa; CDA 2A ar gyfer arwain CA5 Ffiseg i ymgeisydd addas</li>
+	<li><strong>Dyddiad Cau</strong>: Dydd Gwener 17eg o Ionawr 12:00</li>
+	<li><strong>Rhestr fer</strong>: Dydd Gwener 17eg o Ionawr</li>
+	<li><strong>Cyfweliadau</strong>: Wythnos yn dechrau 20fed o Ionawr 2020</li>
+	<li><strong>Graddfa cyflog</strong>: Prif raddfa; CDA 2A ar gyfer arwain CA5 Ffiseg i ymgeisydd addas</li>
 </ul>
 <p><a href="vacancies/Teacher-June18-Welsh.pdf">Lawrlwythwch ffurflen gais</a></p>
 
@@ -62,11 +61,11 @@
 	<li>y potensial ar gyfer datblygiad gyrfa pellach o fewn y Gyfadran a’r ysgol.</li>
 </ul>
 <ul class="list-unstyled">
-	<li>Dyddiad Cau: Dydd Gwener 24ain o Ionawr am 12:00</li>
-	<li>Rhestr fer: Dydd Gwener 24ain o Ionawr</li>
-	<li>Cyfweliadau: wythnos yn dechrau 27ain o Ionawr 2020</li>
-	<li>Graddfa cyflog: Prif raddfa gyflog</li>
-	<li>Telerau’r swydd: Llawn amser.</li>
+	<li><strong>Dyddiad Cau</strong>: Dydd Gwener 24ain o Ionawr am 12:00</li>
+	<li><strong>Rhestr fer</strong>: Dydd Gwener 24ain o Ionawr</li>
+	<li><strong>Cyfweliadau</strong>: wythnos yn dechrau 27ain o Ionawr 2020</li>
+	<li><strong>Graddfa cyflog</strong>: Prif raddfa gyflog</li>
+	<li><strong>Telerau’r swydd</strong>: Llawn amser.</li>
 </ul>
 
 <p><a href="vacancies/Teacher-June18-Welsh.pdf">Lawrlwythwch ffurflen gais</a></p>
