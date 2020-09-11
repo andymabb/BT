@@ -48,6 +48,27 @@
   </li>
   <li>
     <h4>Inset Days</h4>
-    <p>To be confirmed</p>
+    <ul>
+      <li>Friday 23/10/20</li>
+      <li>Monday 21/12/20</li>
+      <li>Tuesday 22/12/20</li>
+      <li>Friday 12/02/21</li>
+      <li>Friday 02/07/21</li>
+      <li>Friday 16/07/21</li>
+      <li>Friday 02/07/21</li>
+      <li>Friday 16/07/21</li>
+    </ul>
   </li>
 </ul>
+
+Friday 23/10/20
+
+Monday 21/12/20
+
+Tuesday 22/12/20
+
+Friday 12/02/21
+
+Friday 02/07/21
+
+Friday 16/07/21

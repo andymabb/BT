@@ -79,7 +79,14 @@
         <div class="col-sm-4 col-sm-offset-2">
           <h3>Dyddiadau HMS </h3>
           <ul>
-            <li>I’w gadarnhau’</li><!-- to be confirmed -->
+              <li>Dydd Gwener 23/10/20</li>
+              <li>Dydd Llun 21/12/20</li>
+              <li>Dydd Mawrth 22/12/20</li>
+              <li>Dydd Gwener 12/02/21</li>
+              <li>Dydd Gwener 02/07/21</li>
+              <li>Dydd Gwener 16/07/21</li>
+          </ul>
+            
         </div>
-
+<!--<li>I’w gadarnhau’</li> to be confirmed -->
       </div>
