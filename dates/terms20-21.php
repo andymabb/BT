@@ -35,10 +35,11 @@
       <dd>Monday 7 June &ndash; Friday 16 July</dd>
     </dl>
   </li>
-</ul>
-<h3>Bank Holidays</h3>
-<ul class="terms-list">
+
   <li>
+  <h3>Bank Holidays</h3>
+<!-- <ul class="terms-list">
+  <li> -->
     
     <dl><dt>Good Friday</dt><dd>2 April 2021</dd>
       <dt>Easter Monday</dt><dd>5 April 2021</dd>
@@ -46,29 +47,17 @@
       <dt>Spring Bank Holiday</dt><dd>31 May 2021</dd>
     </dl>
   </li>
+  
   <li>
-    <h4>Inset Days</h4>
-    <ul>
-      <li>Friday 23/10/20</li>
-      <li>Monday 21/12/20</li>
-      <li>Tuesday 22/12/20</li>
-      <li>Friday 12/02/21</li>
-      <li>Friday 02/07/21</li>
-      <li>Friday 16/07/21</li>
-      <li>Friday 02/07/21</li>
-      <li>Friday 16/07/21</li>
-    </ul>
+    <h3>Inset Days</h3>
+      <div>Friday 23/10/20</div>
+      <div>Monday 21/12/20</div>
+      <div>Tuesday 22/12/20</div>
+      <div>Friday 12/02/21</div>
+      <div>Friday 02/07/21</div>
+      <div>Friday 16/07/21</div>
+      <div>Friday 02/07/21</div>
+      <div>Friday 16/07/21</div>
   </li>
 </ul>
 
-Friday 23/10/20
-
-Monday 21/12/20
-
-Tuesday 22/12/20
-
-Friday 12/02/21
-
-Friday 02/07/21
-
-Friday 16/07/21
